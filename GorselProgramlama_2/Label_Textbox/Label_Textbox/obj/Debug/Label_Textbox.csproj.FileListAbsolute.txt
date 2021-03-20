@@ -1,0 +1,9 @@
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\Label_Textbox\Label_Textbox\bin\Debug\Label_Textbox.exe.config
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\Label_Textbox\Label_Textbox\bin\Debug\Label_Textbox.exe
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\Label_Textbox\Label_Textbox\bin\Debug\Label_Textbox.pdb
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\Label_Textbox\Label_Textbox\obj\Debug\Label_Textbox.Form1.resources
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\Label_Textbox\Label_Textbox\obj\Debug\Label_Textbox.Properties.Resources.resources
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\Label_Textbox\Label_Textbox\obj\Debug\Label_Textbox.csproj.GenerateResource.cache
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\Label_Textbox\Label_Textbox\obj\Debug\Label_Textbox.csproj.CoreCompileInputs.cache
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\Label_Textbox\Label_Textbox\obj\Debug\Label_Textbox.exe
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\Label_Textbox\Label_Textbox\obj\Debug\Label_Textbox.pdb

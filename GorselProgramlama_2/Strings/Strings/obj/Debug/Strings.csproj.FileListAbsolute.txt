@@ -1,0 +1,9 @@
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\Strings\Strings\obj\Debug\Strings.Form1.resources
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\Strings\Strings\obj\Debug\Strings.Properties.Resources.resources
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\Strings\Strings\obj\Debug\Strings.csproj.GenerateResource.cache
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\Strings\Strings\obj\Debug\Strings.pdb

@@ -1,0 +1,10 @@
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\ButtonTools\ButtonTools\bin\Debug\ButtonTools.exe.config
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\ButtonTools\ButtonTools\bin\Debug\ButtonTools.exe
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\ButtonTools\ButtonTools\bin\Debug\ButtonTools.pdb
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\ButtonTools\ButtonTools\obj\Debug\ButtonTools.csprojAssemblyReference.cache
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\ButtonTools\ButtonTools\obj\Debug\ButtonTools.Form1.resources
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\ButtonTools\ButtonTools\obj\Debug\ButtonTools.Properties.Resources.resources
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\ButtonTools\ButtonTools\obj\Debug\ButtonTools.csproj.GenerateResource.cache
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\ButtonTools\ButtonTools\obj\Debug\ButtonTools.csproj.CoreCompileInputs.cache
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\ButtonTools\ButtonTools\obj\Debug\ButtonTools.exe
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\ButtonTools\ButtonTools\obj\Debug\ButtonTools.pdb

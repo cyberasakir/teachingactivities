@@ -1,0 +1,9 @@
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\RezervasyonForm\RezervasyonForm\bin\Debug\RezervasyonForm.exe.config
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\RezervasyonForm\RezervasyonForm\bin\Debug\RezervasyonForm.exe
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\RezervasyonForm\RezervasyonForm\bin\Debug\RezervasyonForm.pdb
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\RezervasyonForm\RezervasyonForm\obj\Debug\RezervasyonForm.Form1.resources
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\RezervasyonForm\RezervasyonForm\obj\Debug\RezervasyonForm.Properties.Resources.resources
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\RezervasyonForm\RezervasyonForm\obj\Debug\RezervasyonForm.csproj.GenerateResource.cache
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\RezervasyonForm\RezervasyonForm\obj\Debug\RezervasyonForm.csproj.CoreCompileInputs.cache
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\RezervasyonForm\RezervasyonForm\obj\Debug\RezervasyonForm.exe
+C:\Users\Asakir-i Cyber\Desktop\Dersler\GorselProgramlama\RezervasyonForm\RezervasyonForm\obj\Debug\RezervasyonForm.pdb
